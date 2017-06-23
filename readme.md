@@ -24,7 +24,7 @@ Keep score!!
 
 
 # How to Run
-I have a funky Node servern so:
+Hand rolled Node server, so:
 
 ```serve -p 3002```
 
