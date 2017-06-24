@@ -29,3 +29,8 @@ Hand rolled Node server, so:
 ```serve -p 3002```
 
 
+# extensions
+
+# use data from JSON file 
+# change timer to make harder and easier
+# pay2play + leader board
