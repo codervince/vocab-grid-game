@@ -31,11 +31,12 @@ Hand rolled Node server, so:
 
 # extensions
 
-* use data from JSON file 
-* change timer to make harder and easier
-*  add points
-*  pay2play + leader board
-* flash winning terms at end
+* use data from JSON file  OK
+* change timer to make harder and easier == bigger grid, more things to remember, can adjust OK
+* flash winning terms at end OK
+*  Track scores PerfectScore+
+*  pay2play + leader board ==> DB
+
 
 
 ```js
@@ -43,3 +44,4 @@ Hand rolled Node server, so:
   $('.blink_me').fadeOut(500).fadeIn(500, blink); 
 })();
 ```
+#
